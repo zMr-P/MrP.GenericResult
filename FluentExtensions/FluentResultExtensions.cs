@@ -1,6 +1,6 @@
-﻿using MrP.GenericResult.Interfaces;
+﻿using MrP.FluentResult.Interfaces;
 
-namespace MrP.GenericResult.FluentExtensions
+namespace MrP.FluentResult.FluentExtensions
 {
     public static class FluentResultExtensions
     {
