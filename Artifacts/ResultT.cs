@@ -1,6 +1,6 @@
-﻿using MrP.GenericResult.Interfaces;
+﻿using MrP.FluentResult.Interfaces;
 
-namespace MrP.GenericResult.Artifacts
+namespace MrP.FluentResult.Artifacts
 {
     public sealed record Result<T> : Result, IFluentResult where T : notnull
     {

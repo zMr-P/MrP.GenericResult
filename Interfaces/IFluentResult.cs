@@ -1,4 +1,4 @@
-﻿namespace MrP.GenericResult.Interfaces
+﻿namespace MrP.FluentResult.Interfaces
 {
     public interface IFluentResult
     {
